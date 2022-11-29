@@ -39,8 +39,7 @@ CREATE TABLE `admin` (
 -- Dumping data for table `admin`
 --
 
-INSERT INTO `admin` (`admin_id`, `admin_name`, `username`, `password`) VALUES
-(1, 'Ranjeet Shrestha', 'asdf', 'asdf');
+
 
 -- --------------------------------------------------------
 
